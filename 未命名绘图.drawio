@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2024-06-09T09:18:09.914Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mg9nYWHRmMBQWuoGite6" version="24.5.2" type="github">
+  <diagram name="第 1 页" id="9NvW47H8WKT_Z_fvWyVt">
+    <mxGraphModel dx="858" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r4kIo26Im5XIfJVic8ie-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r4kIo26Im5XIfJVic8ie-3" target="r4kIo26Im5XIfJVic8ie-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4kIo26Im5XIfJVic8ie-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="r4kIo26Im5XIfJVic8ie-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r4kIo26Im5XIfJVic8ie-4" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="385" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r4kIo26Im5XIfJVic8ie-5" value="运算器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="385" y="320" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r4kIo26Im5XIfJVic8ie-6" value="存储器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="380" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r4kIo26Im5XIfJVic8ie-7" value="CPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4kIo26Im5XIfJVic8ie-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r4kIo26Im5XIfJVic8ie-8" target="r4kIo26Im5XIfJVic8ie-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4kIo26Im5XIfJVic8ie-8" value="输入设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r4kIo26Im5XIfJVic8ie-9" value="输出设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
